@@ -1,0 +1,12 @@
+venv/
+.pylintrc
+__pycache__
+.vscode
+.idea
+db.sqlite3
+figs/
+log/
+django.log
+.env.prod
+/reserved
+.env.prod.db
